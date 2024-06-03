@@ -1,0 +1,133 @@
+Features 
+
+1. Google Analytics 				Done 
+2. Facebook Messenger Chat 			Done
+3. Google No Translate 				Done 
+4. OG Protocol in main page and host pages 	Done 
+5. Map Layered 					Not Yet 
+6. Registration form - Google Sheets 		Done 
+7. Favicon 					Done 
+8. Android App 					FIVE
+9. htaccess  (remove .php extensions )		Not worked in Sub Dir
+10.Roadblock Ads 				Not Needed 
+11.Blog page > blog header scroll bar 		Not Yet
+12.Android App 
+13.Sticky menu 
+
+--------------------------------------------------------------------
+
+
+Individual OG image for 
+1. host pages					Done  
+2. Places pages 				Done 
+3. Main OG protocol 				Done 
+
+--------------------------------------------------------------------
+
+1. Only greyscale images 
+2. App download link icon in respective operating system 
+
+--------------------------------------------------------------------
+
+
+
+REMAIN THINGS IN WEBSITE 
+5:51 PM 3/5/2021
+
+
+http://localhost/ghar/index.php
+6 major host 
+4 logos & companies 
+
+
+http://localhost/ghar/pahunaghar.php
+banner image change 
+manage icons 
+change pics of places 
+blog updates 
+
+http://localhost/ghar/top.php
+Manage icons of features
+
+
+
+9:21 PM 3/5/2021
+
+http://localhost/ghar/team.php
+social media profile links 
+
+
+Manage title : 
+2:03 PM 3/6/2021
+
+
+-----------------------------------------------------------------
+
+6:44 PM 3/5/2021
+khaas maa bhanne ho bhane , you sapana ma eklai le matra dekheko haina, yo sapanamaa dekhna malai kasaile utprerit gareko ho 
+
+
+
+
+6:54 PM 3/5/2021 
+
+WORK DIVISION 
+
+
+Agreement 
+1. Layout fixing 
+2. Page fixing 
+3. Content Fixing 
+4. Images fixing 
+5. Addons fixing 
+6. QA 
+7. Delivery 
+
+
+
+
+
+
+
+
+
+Remove .php from file name 
+
+
+
+landing page : http://gfxpartner.com/Zapper/index.html
+http://layerdrops.com/zimed/index.html
+http://codeboxr.net/themedemo/landingz/html/index.html
+
+
+Flutter Template : https://codecanyon.net/item/flutter-travel-app-ui-kit-template-travel-hour/24958845
+
+
+https://codecanyon.net/item/flutter-hotel-and-tour-template-in-flutter/26338563
+
+https://codecanyon.net/item/flutter-travel-app-for-tourism/28316643
+
+https://codecanyon.net/item/tour-and-travel-app-by-flutter-both-android-and-ios/29962061
+
+
+Slogans : 
+
+Feel the culture 
+
+
+Plan 
+
+search for following 
+
+FNCCI Members 
+Sahakari 
+Mahila Samuha 
+Presentations in all gaupalika 
+
+
+
+Letters 
+
+1. Nepal Tourism board- pahunaghar sanchalan sambandhamaa 
+2. FNCCI - all major areas letter post > let them ask for the date 
+3. email to all software & web companies to become a code contributor 

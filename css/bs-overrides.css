@@ -1,0 +1,125 @@
+/* Chandan Chaurasia - Bootstrap overrides goes here */
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1180px !important;
+    }
+}
+
+@media (min-width: 1366px) {
+    .container {
+        max-width: 1300px !important;
+    }
+}
+
+ul {
+    padding-left: 0;
+}
+
+.bg-blue {
+    background: #1675b9;
+}
+
+.color-red {
+    color: #a50000;
+}
+
+.badge-red {
+    color: #fff;
+    background-color: #a50000;
+    text-transform: uppercase;
+    font-size: 14px;
+    border-radius: 12px;
+    padding: 10px 25px !important;
+}
+
+.bg-dark {
+    background-color: #48a962 !important;
+}
+
+.bg-secondary {
+    background-color: #bde0c7 !important;
+}
+
+.bg-grey {
+    background-color: #46634e;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-danger {
+    background-color: #48a962 !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #48a962;
+    border-color: #299446;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #236133;
+    border-color: #236133;
+}
+
+.btn-outline-danger {
+    color: #48a962;
+    border-color: #48a962;
+}
+
+.btn-outline-danger:hover {
+    color: #fff;
+    background-color: #48a962;
+    border-color: #48a962;
+}
+
+.text-primary {
+    color: #48a962 !important;
+}
+
+.pg-main-menu .navbar-light .navbar-nav .active>.nav-link,
+.pg-main-menu .navbar-light .navbar-nav .nav-link.active,
+.pg-main-menu .navbar-light .navbar-nav .nav-link.show,
+.pg-main-menu .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(255, 224, 0);
+}
+
+.pg-main-menu .navbar-light .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.pg-main-menu .navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(184, 255, 203) !important;
+}
+
+.pg-main-menu .dropdown-menu {
+    background-color: rgb(255, 255, 255);
+    /* backdrop-filter: saturate(50%) blur(10px); */
+}
+
+.pg-main-menu .dropdown-item {
+    /* color: #edf3d4; */
+    color: #48a962;
+}
+
+.pg-main-menu .dropdown-item:focus,
+.pg-main-menu .dropdown-item:hover {
+    /* color: #48a962;
+    text-decoration: none;
+    background-color: #edf3d4; */
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #48a962;
+}
+
+.flag-menu .dropdown-menu {
+    min-width: 4.5rem !important;
+}
+
+.trending-places .customer-review {
+    display: none;
+}
